@@ -1,0 +1,28 @@
+Step by step
+1.git add .
+
+2.git remote add orgin https://github.com/Username/Repo.git
+
+3.git config --global user.email "example@gmail.com"
+
+4.git commit -m "Your Message"
+
+5.git branch -M main
+
+6.git push -u origin main
+(if main doesn't work use master)
+
+
+
+
+สร้างไฟล์ใหม่ ลงท้ายด้วย .html
+
+html:5
+
+
+
+
+
+
+
+

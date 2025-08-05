@@ -1,0 +1,10 @@
+ก่อนเริ่มกิจกรรม (Before we start)
+
+กรอกชื่อ กับ รหัสนักศึกษาบนกระดาษ
+(Write your name and Student ID on the name list)
+
+เปิดคอมฯ และ Log in ด้วย PSU Passport
+(Turn on the PC and enter your PSU Passport)
+
+สร้างบัญชี GitHub โดยแนะนำให้ใช้เมลส่วนตัว
+(Create a GitHub account with your personal email)
